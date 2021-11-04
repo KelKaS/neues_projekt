@@ -4,5 +4,11 @@
 
 int main(){
 
-:
+
 }
+
+
+/Kommenta
+
+
+/Kommentarr
